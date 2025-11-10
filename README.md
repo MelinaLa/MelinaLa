@@ -6,4 +6,3 @@ Welcome to my GitHub!
 
 - I love Cats and (almost) all the other animals.
 - I enjoy Video Games and how they work.
-- Always happy to collaborate on exciting projects!
